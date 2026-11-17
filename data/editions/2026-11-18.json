@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-18",
+  "label": "11月18日（水）号",
+  "coverage": "11月16日〜17日",
+  "minutes": 5,
+  "points": [
+    "VAIOが新S13/F14/F16を発表、落下・水濡れも無償修理の新保証",
+    "NECはSnapdragon X搭載の15.3型「LAVIE N15」を11/19発売",
+    "MS Igniteで、Windowsの管理・セキュリティ機能が正式提供に",
+    "IllustratorもArm版Windowsに正式対応、Adobe主要アプリがそろう"
+  ],
+  "items": [
+    {
+      "cat": "maker",
+      "headline": "VAIO新モデル、ユーザー過失の故障も無償修理に",
+      "body": "VAIOは11月17日、NPU内蔵のIntel Core シリーズ3を載せたS13・F14・F16を発表し、27日に発売する。S13は最軽量構成で約976gと従来より約43g軽い。量販店向け固定構成はS13が34万9800円、F16が33万8000円から。あわせて標準のメーカー保証を見直し、落下や水濡れといった利用者の過失、火災・落雷・水害による故障も回数制限なく無償修理する。9月以降の新モデルが対象。",
+      "why": "部材高で値上げが続く中、価格以外の安心感で選ばせる動き。保証の手厚さが新たな比較軸になり得る。",
+      "rel": "量販店店頭やFMV Storeでの比較時に、保証・サポート内容が問われる場面が増えそう。",
+      "src": "ITmedia PC USER",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news023.html"
+    },
+    {
+      "cat": "maker",
+      "headline": "NEC、Snapdragon X搭載の15.3型LAVIEを発売",
+      "body": "NECパーソナルコンピュータは15.3型ノート「LAVIE N15」のArm版（Snapdragon X搭載）を11月19日に発売する。メモリ16GB、SSD 256GB、NPUは最大45TOPSで、Copilot+ PCの要件を満たす。重さ約1.6kg、動画再生は約11.8時間。Microsoft 365 Personal（24カ月版）付きが実売25万3000円前後、試用版付きが23万1000円前後の見込み。Officeの有無で2モデルに分けた。",
+      "why": "家庭向けの大画面ノートにもArm機が広がり、Intel・AMD機との選択肢が増えている。",
+      "rel": "量販店の15型帯の売り場で、Arm機とx86機の比較や、Office付きの有無が価格訴求の焦点に。",
+      "src": "PC Watch",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2156906.html"
+    },
+    {
+      "cat": "biz",
+      "headline": "MS Ignite、Windowsの管理・防御機能が正式提供",
+      "body": "マイクロソフトは米国で開幕したIgniteで、法人向けWindowsの発表を行った。普段は標準権限で使い、必要な時だけWindows Helloで管理者権限を与える機能や、セキュリティ製品をOSの中核（カーネル）の外で動かせる仕組みが正式提供となった。更新を自動化するAutopatchの登録台数は1億5000万台を超えたという。PC更新では、役割に応じてCopilot+ PCとクラウドPC「Windows 365」を組み合わせる計画を勧めた。",
+      "why": "企業のPC選定で、端末性能に加えて管理・セキュリティ機能への対応が重みを増している。",
+      "rel": "法人向けPCの提案で、Copilot+ PCとクラウドPCの使い分けを説明する場面が増えそう。",
+      "src": "Windows Experience Blog",
+      "url": "https://blogs.windows.com/windowsexperience/2026/11/17/microsoft-ignite-2026-building-windows-for-the-next-era-of-work/"
+    },
+    {
+      "cat": "parts",
+      "headline": "Copilot+ PCのAIエージェント、本格化はまだ先か",
+      "body": "Igniteでは、Copilot+ PC上で手元のファイル操作や診断をこなすローカルAI機能が「近日提供」とされたが、時期は示されなかった。AIエージェントを隔離して安全に動かす仕組みは10月から一般提供済みで、OpenAIなどが採用している。米Thurrott.comは、エージェントがWindows 11に自然に組み込まれるのは早くても2027年後半との見方を示した。",
+      "why": "AI PCの売りとなる機能の到来時期が読みにくく、買い替え需要の後押しは限定的との見方もある。",
+      "rel": "AI PCの店頭説明や法人提案では、今使える機能と予定の機能を分けて伝える必要がある。",
+      "src": "Thurrott.com",
+      "url": "https://www.thurrott.com/microsoft/343991/ignite-2026-agents-are-still-coming-to-windows-11"
+    },
+    {
+      "cat": "parts",
+      "headline": "IllustratorもArm版Windowsに正式対応",
+      "body": "アドビのIllustratorがArm版Windowsに正式対応した。PC Watchによると、これでアドビの主要アプリがArm版Windowsでそろった形となる。Snapdragon搭載PCなどArm機は電池持ちの良さが強みだが、業務アプリの対応状況が導入の壁とされてきた。デザインや資料作成でアドビ製品を使う利用者にとって、Arm機を選びやすくなる。",
+      "why": "アプリの対応不足というArm版Windowsの弱点が一つずつ解消され、選択肢として定着しつつある。",
+      "rel": "クリエイター層や法人への提案で、Arm機を勧める際の不安材料が減る。",
+      "src": "PC Watch",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2156620.html"
+    },
+    {
+      "cat": "biz",
+      "headline": "Microsoft 365障害、原因はサーバーの潜在バグ",
+      "body": "11月13日から約24時間続いたMicrosoft 365の大規模障害について、マイクロソフトが16日に暫定報告を出した。7月に配布したゲートウェイ向けの修正に潜んでいたバグで、CPUやメモリが枯渇したことが主因。Teamsの切り替えによる負荷増や、前日の別問題でゲートウェイ容量の約14%が使えなかったことも重なった。最悪時はサーバーの8割超が応答不能になった。最終報告は後日公表する。",
+      "why": "クラウド依存が進むほど、1社の障害が多くの企業の業務を止める。冗長化や代替手段が改めて問われる。",
+      "rel": "法人顧客の業務継続の相談で、PCとクラウドの両面からの備えが話題になり得る。",
+      "src": "PC Watch",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2157036.html"
+    }
+  ],
+  "trend": {
+    "title": "今週の流れ：価格以外で選ばれる理由づくり",
+    "body": "値上がりが続く中、VAIOは保証、NECはOffice有無の作り分けとArm機で選択肢を広げた。マイクロソフトもAI機能の約束より、管理・セキュリティの実用面を前面に出している。"
+  },
+  "calendar": [
+    {
+      "when": "11/17（火）〜20（金）",
+      "what": "Microsoft Ignite 2026（米サンフランシスコ、現地時間）",
+      "cat": "biz"
+    },
+    {
+      "when": "11/19（木）",
+      "what": "NEC LAVIE N15（Snapdragon X）発売／Amazon ブラックフライデーの詳細発表",
+      "cat": "maker"
+    },
+    {
+      "when": "11/19（木）",
+      "what": "レノボ 中間（7〜9月期）決算の取締役会",
+      "cat": "fccl"
+    },
+    {
+      "when": "11/20（金）",
+      "what": "エディオン 北生駒店オープン（奈良）／東京都GIGA端末RFIの質問締切",
+      "cat": "retail"
+    },
+    {
+      "when": "11/25（水）早朝",
+      "what": "HP 8〜10月期決算（米国時間11/24）",
+      "cat": "maker"
+    },
+    {
+      "when": "11/25（水）頃",
+      "what": "デル 8〜10月期決算（米国時間11/24予定との情報）",
+      "cat": "maker"
+    },
+    {
+      "when": "11/27（金）",
+      "what": "ブラックフライデー当日／コジマ×ビックカメラ イオンモール伊達店オープン／エディオン クロスモール近江八幡店 移転増床オープン",
+      "cat": "retail"
+    },
+    {
+      "when": "11/27（金）",
+      "what": "VAIO S13/F14/F16 発売／レノボ Yoga 9n 2-in-1 発売",
+      "cat": "maker"
+    },
+    {
+      "when": "11/29（日）",
+      "what": "コジマ ブラックフライデーセール最終日",
+      "cat": "retail"
+    },
+    {
+      "when": "11/30（月）",
+      "what": "ビックカメラ・ソフマップ ブラックフライデー最終日／東京都GIGA端末共同調達RFIの提出締切",
+      "cat": "retail"
+    }
+  ]
+}

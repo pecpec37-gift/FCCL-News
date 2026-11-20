@@ -51,7 +51,8 @@ a{color:var(--sky)}
 
 /* masthead */
 .top{display:flex;justify-content:space-between;align-items:center;padding-top:14px;font-size:13px}
-.back{color:var(--muted);text-decoration:none}
+.back{color:var(--ink);text-decoration:none;font-weight:700;font-size:13px;border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:6px 12px;line-height:1.4}
+.back:hover{border-color:var(--ink)}
 .mast{display:flex;flex-direction:column;gap:10px;padding-top:8px}
 .eyebrow{font-family:var(--f-mono);font-size:12px;letter-spacing:.12em;color:var(--dawn);text-transform:uppercase}
 h1{font-family:var(--f-display);font-weight:800;font-size:clamp(30px,8vw,42px);line-height:1.2;margin:0;text-wrap:balance}
@@ -117,7 +118,7 @@ select{font:inherit;font-size:14px;color:var(--ink);background:var(--paper);bord
 <div class="progress" aria-hidden="true"><span id="bar"></span></div>
 <div class="wrap">
   <div class="top">
-    <span class="status">非公式・個人の情報収集用</span>
+    <a class="back" href="https://pecpec37-gift.github.io/portal/">← TomTom TOWNSへ戻る</a>
     <span class="status" id="clock"></span>
   </div>
 
